@@ -6,6 +6,7 @@ import com.xwray.groupie.ViewHolder
 
 
 class MyGroupAdapter : GroupAdapter<ViewHolder>() {
+    var name="love"
 
     companion object {
         var currentPosition: Int = -1
