@@ -1,5 +1,5 @@
 package com.myapplication.adapter;
 
 public class MyDemoClass {
-    String name="love_verma_h";
+    String name="love_verma_h_";
 }
