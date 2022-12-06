@@ -6,7 +6,7 @@ import com.xwray.groupie.ViewHolder
 
 
 class MyGroupAdapter : GroupAdapter<ViewHolder>() {
-   var name:String="lovevvvvoo"
+   var name:String="lovevvvvoovv"
     companion object {
         var currentPosition: Int = -1
         private var recyclerViewListener: RecyclerViewListener? = null
